@@ -1,0 +1,81 @@
+employee_id,full_name,role,email,country,hired_at,active
+1,Oliver Torres,Procurement,olivertorres20@sample.co,France,2019-10-18 14:27:51+00:00,1
+2,Hugo Singh,Support,hugosingh7442@sample.co,United States,2025-06-09 11:58:51+00:00,1
+3,Hugo Singh,Procurement,hugosingh7441@demo.org,United Kingdom,2024-12-10 02:06:00+00:00,1
+4,Oliver Kowalski,Account Manager,oliverkowalski8331@mail.com,Spain,2023-04-22 03:12:16+00:00,1
+5,José Martinez,Warehouse Ops,josmartinez2577@example.com,Brazil,2025-07-04 05:45:35+00:00,1
+6,Amelia Davis,Procurement,ameliadavis3002@example.com,China,2023-05-11 00:39:14+00:00,1
+7,Noah Ramirez,Account Manager,noahramirez8005@mail.com,Spain,2021-06-08 00:24:57+00:00,1
+8,Leo Park,Account Manager,leopark4923@example.com,Poland,2022-08-25 18:20:06+00:00,1
+9,Sofia Costa,Warehouse Ops,sofiacosta9096@example.com,Bolivia,2022-06-26 19:43:22+00:00,1
+10,Charlotte Rossi,Finance,charlotterossi419@sample.co,Paraguay,2025-06-08 05:16:10+00:00,1
+11,Daniela Singh,Sales Rep,danielasingh2391@example.com,Peru,2022-08-29 23:12:06+00:00,1
+12,Ivy Silva,Finance,ivysilva6139@demo.org,Spain,2021-12-29 17:45:19+00:00,1
+13,Ana Petrov,Account Manager,anapetrov138@company.net,Brazil,2021-08-20 15:46:12+00:00,1
+14,Elijah Johnson,Finance,elijahjohnson5470@company.net,South Africa,2020-10-16 19:13:22+00:00,0
+15,José Kowalski,Account Manager,joskowalski8754@sample.co,Italy,2020-05-09 23:11:04+00:00,1
+16,Amelia Costa,Sales Rep,ameliacosta8595@company.net,Ecuador,2021-06-05 06:39:42+00:00,1
+17,Ivy Jones,Account Manager,ivyjones9936@mail.com,United Arab Emirates,2022-12-01 18:49:47+00:00,1
+18,Aarav Patel,Account Manager,aaravpatel2616@company.net,Germany,2022-09-01 05:07:45+00:00,1
+19,Carlos Williams,Support,carloswilliams4359@example.com,Italy,2024-01-06 06:05:13+00:00,1
+20,Chen Lopez,Sales Rep,chenlopez7737@example.com,South Africa,2021-01-13 04:42:57+00:00,1
+21,Olivia Bianchi,Account Manager,oliviabianchi5228@example.com,Argentina,2022-03-19 09:50:34+00:00,1
+22,Santiago Johnson,Sales Rep,santiagojohnson9735@sample.co,Colombia,2021-05-30 22:06:51+00:00,0
+23,Isabella Davis,Account Manager,isabelladavis9455@company.net,Brazil,2023-02-22 06:36:14+00:00,1
+24,Leo Williams,Procurement,leowilliams5046@example.com,India,2021-08-29 05:30:19+00:00,1
+25,Jacob Davis,Finance,jacobdavis8733@sample.co,United Arab Emirates,2024-10-16 03:05:41+00:00,1
+26,Lucas Brown,Support,lucasbrown976@demo.org,Italy,2020-09-14 21:07:32+00:00,1
+27,Olivia Johnson,Warehouse Ops,oliviajohnson4134@mail.com,Canada,2024-11-14 22:01:15+00:00,1
+28,Santiago Khan,Account Manager,santiagokhan1519@example.com,Bolivia,2025-02-27 10:55:29+00:00,1
+29,Zoe Perez,Sales Rep,zoeperez1927@sample.co,United Kingdom,2020-01-23 13:18:46+00:00,1
+30,Leo Kim,Support,leokim5280@demo.org,South Africa,2024-06-29 17:14:11+00:00,1
+31,Luna Wang,Sales Rep,lunawang7858@sample.co,United Kingdom,2020-12-31 19:08:38+00:00,1
+32,Leo Zhang,Procurement,leozhang8198@mail.com,South Africa,2023-04-22 19:16:24+00:00,1
+33,Oliver Rodriguez,Warehouse Ops,oliverrodriguez7252@sample.co,United States,2021-12-18 09:21:27+00:00,1
+34,Sofia Singh,Sales Rep,sofiasingh7476@mail.com,United States,2023-06-23 20:47:27+00:00,1
+35,Valentina Kumar,Finance,valentinakumar1676@example.com,China,2022-01-21 08:03:54+00:00,1
+36,María Flores,Support,maraflores4780@mail.com,Poland,2019-12-28 16:44:11+00:00,1
+37,Aarav Park,Warehouse Ops,aaravpark3120@sample.co,Brazil,2021-12-09 07:35:00+00:00,1
+38,Zoe Brown,Warehouse Ops,zoebrown4801@mail.com,United Kingdom,2024-11-16 19:53:47+00:00,1
+39,José Novak,Account Manager,josnovak4247@mail.com,Bolivia,2021-04-09 08:31:57+00:00,0
+40,Emma Rossi,Account Manager,emmarossi5874@sample.co,Italy,2022-11-01 13:29:24+00:00,0
+41,Chen Kowalski,Sales Rep,chenkowalski1312@mail.com,Ecuador,2022-10-29 18:47:52+00:00,1
+42,Mila Park,Support,milapark3684@sample.co,Brazil,2023-05-06 12:07:10+00:00,0
+43,Emily Kim,Warehouse Ops,emilykim8027@company.net,Japan,2024-11-03 12:43:30+00:00,1
+44,Camila Kim,Account Manager,camilakim2540@mail.com,Uruguay,2023-09-27 16:16:55+00:00,1
+45,Leo Jones,Finance,leojones8377@sample.co,New Zealand,2021-09-02 10:39:46+00:00,1
+46,Leo Gonzalez,Warehouse Ops,leogonzalez2557@sample.co,Netherlands,2022-07-16 04:56:42+00:00,1
+47,Charlotte Park,Procurement,charlottepark6943@company.net,Uruguay,2023-11-21 11:44:52+00:00,0
+48,Aarav Williams,Finance,aaravwilliams5911@example.com,Peru,2023-06-22 04:13:11+00:00,1
+49,Ivy Garcia,Account Manager,ivygarcia6520@example.com,Bolivia,2024-05-28 03:12:30+00:00,1
+50,Charlotte Novak,Support,charlottenovak5933@mail.com,Argentina,2020-06-22 21:53:03+00:00,1
+51,Diego Flores,Procurement,diegoflores7016@demo.org,United Kingdom,2021-03-15 09:30:02+00:00,1
+52,Oliver Kim,Finance,oliverkim90@example.com,Netherlands,2021-09-19 07:05:49+00:00,1
+53,Sofia Smith,Warehouse Ops,sofiasmith1503@demo.org,Argentina,2020-09-16 17:20:11+00:00,1
+54,Valentina Torres,Finance,valentinatorres4210@mail.com,Mexico,2020-04-30 19:06:18+00:00,1
+55,Emily Costa,Warehouse Ops,emilycosta6419@sample.co,United States,2024-01-26 06:58:32+00:00,1
+56,Isabella Kowalski,Procurement,isabellakowalski3438@example.com,United Arab Emirates,2020-01-30 04:45:17+00:00,1
+57,Oliver Zhang,Account Manager,oliverzhang3574@demo.org,Paraguay,2022-05-25 20:23:43+00:00,1
+58,Jacob Brown,Finance,jacobbrown591@example.com,Germany,2020-09-27 22:27:27+00:00,1
+59,Yuki Rodriguez,Warehouse Ops,yukirodriguez7617@sample.co,Italy,2023-11-01 18:47:21+00:00,1
+60,Mila Singh,Account Manager,milasingh8199@mail.com,Chile,2025-05-27 00:39:30+00:00,1
+61,Leo Silva,Sales Rep,leosilva4118@mail.com,Netherlands,2025-04-22 00:04:12+00:00,1
+62,Camila Wang,Finance,camilawang2285@sample.co,Colombia,2024-01-22 12:58:14+00:00,0
+63,Aarav Rodriguez,Procurement,aaravrodriguez6114@company.net,New Zealand,2025-01-12 01:58:14+00:00,1
+64,Zoe Costa,Sales Rep,zoecosta9545@mail.com,Brazil,2024-11-26 04:43:16+00:00,1
+65,Luna Park,Finance,lunapark4961@example.com,Chile,2025-01-07 23:44:11+00:00,1
+66,Amelia Gonzalez,Finance,ameliagonzalez1234@demo.org,Colombia,2023-01-16 08:03:57+00:00,1
+67,Amelia Singh,Finance,ameliasingh3236@demo.org,Bolivia,2021-09-10 18:57:03+00:00,1
+68,Charlotte Bianchi,Sales Rep,charlottebianchi1360@example.com,Australia,2020-09-29 10:48:15+00:00,1
+69,Emily Lee,Procurement,emilylee8033@sample.co,China,2023-06-15 15:23:39+00:00,0
+70,Chen Kim,Account Manager,chenkim4640@sample.co,Poland,2023-07-13 06:44:03+00:00,1
+71,Sofia Park,Finance,sofiapark831@demo.org,Mexico,2020-04-24 08:58:40+00:00,1
+72,Mateo Williams,Finance,mateowilliams7624@demo.org,Argentina,2022-03-13 03:00:06+00:00,1
+73,Zoe Kim,Finance,zoekim3647@company.net,Germany,2020-08-31 01:39:29+00:00,1
+74,Carlos Rossi,Warehouse Ops,carlosrossi1341@example.com,Bolivia,2021-08-14 22:35:05+00:00,1
+75,Diego Novak,Procurement,diegonovak4020@sample.co,Poland,2022-08-06 22:31:19+00:00,0
+76,José Kim,Finance,joskim6565@sample.co,Ecuador,2024-04-21 15:46:43+00:00,1
+77,Isabella Sanchez,Sales Rep,isabellasanchez847@demo.org,Canada,2021-05-24 03:39:50+00:00,1
+78,Aarav Sanchez,Procurement,aaravsanchez9915@example.com,Poland,2021-11-09 03:02:29+00:00,1
+79,Ivy Sanchez,Support,ivysanchez1181@example.com,Poland,2024-09-20 15:31:13+00:00,1
+80,Amelia Costa,Warehouse Ops,ameliacosta3872@demo.org,New Zealand,2020-12-16 04:36:28+00:00,1

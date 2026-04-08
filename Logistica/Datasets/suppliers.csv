@@ -1,0 +1,41 @@
+supplier_id,supplier_name,country,country_code,currency,contact_name,phone,email
+1,Supplier 001,Italy,IT,EUR,Isabella Singh,+84-149-174-9779,supplier1543@demo.org
+2,Supplier 002,New Zealand,NZ,NZD,Elijah Ivanov,+28-138-188-8104,supplier6852@example.com
+3,Supplier 003,Germany,DE,EUR,Sofia Kumar,+55-160-946-3028,supplier3658@sample.co
+4,Supplier 004,Canada,CA,CAD,Jacob Singh,+7-326-147-3181,supplier4745@company.net
+5,Supplier 005,Argentina,AR,ARS,Zoe Davis,+74-415-673-3961,supplier1689@sample.co
+6,Supplier 006,New Zealand,NZ,NZD,Hugo Zhang,+13-660-829-2028,supplier9247@example.com
+7,Supplier 007,United Arab Emirates,AE,AED,Mia Novak,+88-644-537-6146,supplier7629@sample.co
+8,Supplier 008,India,IN,INR,Chen Kim,+32-913-284-4999,supplier1342@sample.co
+9,Supplier 009,Spain,ES,EUR,Luna Novak,+44-846-559-5717,supplier9978@example.com
+10,Supplier 010,Brazil,BR,BRL,Santiago Silva,+22-875-450-3490,supplier8012@company.net
+11,Supplier 011,Canada,CA,CAD,Mateo Kumar,+74-908-996-6140,supplier5573@demo.org
+12,Supplier 012,United Arab Emirates,AE,AED,Diego Bianchi,+9-960-195-5422,supplier7768@example.com
+13,Supplier 013,Canada,CA,CAD,Camila Patel,+88-941-556-5662,supplier6321@demo.org
+14,Supplier 014,United States,US,USD,Juan Wang,+22-725-219-9088,supplier966@mail.com
+15,Supplier 015,Paraguay,PY,PYG,Valentina Rodriguez,+95-353-507-7405,supplier8135@example.com
+16,Supplier 016,Chile,CL,CLP,José Singh,+71-384-240-8053,supplier9015@demo.org
+17,Supplier 017,Bolivia,BO,BOB,Ana Wang,+88-489-336-3472,supplier1360@mail.com
+18,Supplier 018,Argentina,AR,ARS,Amelia Sanchez,+2-596-951-3987,supplier4305@demo.org
+19,Supplier 019,United States,US,USD,Isabella Silva,+69-478-724-6220,supplier2057@sample.co
+20,Supplier 020,United Arab Emirates,AE,AED,Elijah Bianchi,+88-917-672-7428,supplier6522@company.net
+21,Supplier 021,Poland,PL,PLN,Emma Kowalski,+82-510-163-4122,supplier1104@mail.com
+22,Supplier 022,India,IN,INR,Lucas Davis,+44-715-153-2677,supplier4@sample.co
+23,Supplier 023,Argentina,AR,ARS,Zoe Miller,+47-728-126-2152,supplier3408@sample.co
+24,Supplier 024,Poland,PL,PLN,Isabella Torres,+45-716-472-8768,supplier2013@example.com
+25,Supplier 025,China,CN,CNY,Juan Kowalski,+62-419-187-3361,supplier1675@demo.org
+26,Supplier 026,Ecuador,EC,USD,Martina Kowalski,+89-265-628-1378,supplier3363@sample.co
+27,Supplier 027,Netherlands,NL,EUR,Isabella Petrov,+4-876-640-5883,supplier1492@demo.org
+28,Supplier 028,Japan,JP,JPY,Chen Hernandez,+46-890-328-9725,supplier8874@sample.co
+29,Supplier 029,Italy,IT,EUR,Amelia Lopez,+31-937-510-4714,supplier3276@sample.co
+30,Supplier 030,China,CN,CNY,Hana Johnson,+4-909-386-8737,supplier4247@mail.com
+31,Supplier 031,Bolivia,BO,BOB,Charlotte Wang,+58-927-840-6726,supplier5975@example.com
+32,Supplier 032,Germany,DE,EUR,Emma Sanchez,+61-301-445-4348,supplier7908@sample.co
+33,Supplier 033,United Arab Emirates,AE,AED,Liam Kowalski,+84-452-918-2389,supplier1965@company.net
+34,Supplier 034,Uruguay,UY,UYU,Hugo Kowalski,+23-544-908-6447,supplier1422@company.net
+35,Supplier 035,India,IN,INR,Carlos Garcia,+93-262-274-3081,supplier452@mail.com
+36,Supplier 036,New Zealand,NZ,NZD,Juan Martinez,+79-946-710-8771,supplier5742@mail.com
+37,Supplier 037,Australia,AU,AUD,Ivy Rodriguez,+3-114-918-2683,supplier8628@mail.com
+38,Supplier 038,South Africa,ZA,ZAR,Hugo Perez,+4-357-317-5799,supplier8212@mail.com
+39,Supplier 039,Paraguay,PY,PYG,Emily Park,+34-657-529-3147,supplier998@demo.org
+40,Supplier 040,India,IN,INR,Emily Popov,+54-946-999-9219,supplier2143@sample.co

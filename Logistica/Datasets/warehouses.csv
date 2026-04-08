@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,country,country_code,currency
+1,WH-BR-01,Brazil,BR,BRL
+2,WH-PY-02,Paraguay,PY,PYG
+3,WH-JP-03,Japan,JP,JPY
+4,WH-CA-04,Canada,CA,CAD
+5,WH-PE-05,Peru,PE,PEN
+6,WH-NL-06,Netherlands,NL,EUR
+7,WH-IN-07,India,IN,INR
+8,WH-AU-08,Australia,AU,AUD
+9,WH-JP-09,Japan,JP,JPY
+10,WH-NZ-10,New Zealand,NZ,NZD
+11,WH-BO-11,Bolivia,BO,BOB
+12,WH-BR-12,Brazil,BR,BRL
