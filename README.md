@@ -14,7 +14,7 @@ el año 2024 en distintos municipios del departamento de Santa Cruz, Bolivia,
 a partir de datos satelitales proporcionados por la NASA. El trabajo fue
 realizado en diciembre del año 2025.
 
-📁 [`/analisis-incendios`](./Incendios Forestales)
+📁 [`/analisis-incendios`](./IncendiosForestales)
 
 ---
 
