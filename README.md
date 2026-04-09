@@ -14,8 +14,6 @@ el año 2024 en distintos municipios del departamento de Santa Cruz, Bolivia,
 a partir de datos satelitales proporcionados por la NASA. El trabajo fue
 realizado en diciembre del año 2025.
 
-📁 [`/analisis-incendios`](./IncendiosForestales)
-
 ---
 
 ## 📦 Análisis de un Sistema de Pedidos Internacionales
@@ -24,8 +22,6 @@ Análisis e integración de un dataset de pedidos internacionales compuesto
 por 13 tablas relacionadas, con el objetivo de obtener una visión clara del
 ciclo completo de compra y venta, identificando patrones en pedidos, pagos,
 envíos y comportamiento de clientes.
-
-📁 [`/analisis-pedidos`](./Logistica)
 
 ---
 
