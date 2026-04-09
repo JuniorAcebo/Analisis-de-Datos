@@ -14,7 +14,7 @@ el año 2024 en distintos municipios del departamento de Santa Cruz, Bolivia,
 a partir de datos satelitales proporcionados por la NASA. El trabajo fue
 realizado en diciembre del año 2025.
 
-📁 [`/analisis-incendios`](./analisis-incendios)
+📁 [`/analisis-incendios`](./Incendios Forestales)
 
 ---
 
@@ -25,7 +25,7 @@ por 13 tablas relacionadas, con el objetivo de obtener una visión clara del
 ciclo completo de compra y venta, identificando patrones en pedidos, pagos,
 envíos y comportamiento de clientes.
 
-📁 [`/analisis-pedidos`](./analisis-pedidos)
+📁 [`/analisis-pedidos`](./Logistica)
 
 ---
 
